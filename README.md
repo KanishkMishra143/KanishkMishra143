@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://kanishkmishra143.github.io/](https://kanishkmishra143.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kanishkmishra143.github.io/)
 
 - 💬 Ask me about **Linux, Python, DBMS**
 
 - 📫 How to reach me **kanishk.kumar412@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e3BeJaku3GVcVwqTMzeEfi7uQrbbEm9i/view?usp=drive_link](https://drive.google.com/file/d/1e3BeJaku3GVcVwqTMzeEfi7uQrbbEm9i/view?usp=drive_link)
+- 📄 Know about my experiences [Download CV](https://drive.google.com/file/d/1e3BeJaku3GVcVwqTMzeEfi7uQrbbEm9i/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
